@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <array name="danmu_random">
+        <item>你🐴死了 我是你哥哥</item>
+        <item>你🐵🌶🍄大声干什么</item>
+        <item>BBBBBBBBB</item>
+        <item>我把蜡烛揍到你🐴的🍺里去 给你🐴烧成琥珀批</item>
+        <item>冲冲冲冲冲冲冲冲冲冲冲冲冲冲冲冲冲</item>
+        <item>深海哥你来啦</item>
+        <item>开会司马脸 上班司马脸</item>
+        <item>那是真的🐮🍺</item>
+        <item>这武器必死 你把你闪现给我交了</item>
+        <item>在机场那一夜 丁潇潇没赴我的约</item>
+        <item>新津孙笑川 劈母救华山</item>
+        <item>华尔该并没有血雪 冷的只是人心</item>
+        <item>我在你左侧 却像隔着银河</item>
+        <item>原谅我捧花盛装出席 只为错过你</item>
+        <item>在下朱剑豪 不请自来 望各位带哥海涵</item>
+    </array>
+
+    <array name="letter_tile_colors" tools:ignore="InconsistentArrays">
+        <item>#db4437</item>
+        <item>#e91e63</item>
+        <item>#9c27b0</item>
+        <item>#673ab7</item>
+        <item>#3f51b5</item>
+        <item>#4285f4</item>
+        <item>#039be5</item>
+        <item>#0097a7</item>
+        <item>#008577</item>
+        <item>#0f9d58</item>
+        <item>#689f38</item>
+        <item>#ef6c00</item>
+        <item>#ff5722</item>
+        <item>#757575</item>
+    </array>
+</resources>

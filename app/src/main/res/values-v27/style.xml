@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="XJBWAppNuiActivityTheme" parent="XJBWThemeBase">
+        <item name="android:navigationBarDividerColor">@color/normal_dark</item>
+    </style>
+</resources>

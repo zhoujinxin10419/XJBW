@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">瞎几把玩</string>
+    <string name="welcome_text">冲 冲 冲</string>
+    <string name="title_wechat">"公众号"</string>
+    <string name="title_home">主页</string>
+    <string name="title_navi">导航</string>
+    <string name="data_loading">加载中....</string>
+</resources>
